@@ -17,7 +17,7 @@ pip install -r requirements.txt
 python seed.py
 
 # 3) iniciar o serviço
-python app.py
+python api/app.py
 ```
 
 Depois acesse:
