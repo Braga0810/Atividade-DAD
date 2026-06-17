@@ -1,0 +1,6 @@
+Flask==3.0.3
+flask-cors==4.0.1
+SQLAlchemy==2.0.30
+requests==2.32.3
+# Necessário apenas se usar DB_BACKEND=mysql (banco compartilhado bd_censo)
+PyMySQL==1.1.1
